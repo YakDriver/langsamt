@@ -1,2 +1,2 @@
-# langsamt-apple
+# langsamt
 Test slow MacOS builds on Travis CI
